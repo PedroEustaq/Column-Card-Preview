@@ -75,6 +75,9 @@ font-size: 15px;
 margin-top: 20px;
 height: 180px;
 }
+div {
+    margin-top: 40px;
+}
 button#SE {
     font-family: "Lexend Deca", sans-serif;
 font-optical-sizing: auto;
@@ -143,6 +146,9 @@ button#LU:hover {
     section#Luxury{
         border-bottom-left-radius: 15px;
         border-top-right-radius: 0px;
+    }
+    div {
+        display: none;
     }
 }
 
